@@ -4,3 +4,5 @@
 
 - https://hub.docker.com/repository/docker/artamevia/go-sample-app/
 - https://fluxcd.io/
+
+![System Design](system_design.jpg)
